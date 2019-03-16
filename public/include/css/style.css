@@ -1,0 +1,346 @@
+
+
+/* CSS Document */
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, *
+{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%; /*	vertical-align: baseline;*/
+}
+
+ol, ul
+{
+    list-style: none;
+}
+blockquote, q
+{
+    quotes: none;
+}
+blockquote:before, blockquote:after, q:before, q:after
+{
+    content: '';
+    content: none;
+}
+
+BODY
+{
+    margin: 0;
+    background: #ffffff  url(../../images/bg.jpg) top center no-repeat;
+    height: 100%;
+    text-align: center;
+}
+IMG, A, DIV, SPAN, INPUT, TD
+{
+    behavior: url(../../imgfix/iepngfix.htc);
+}
+IMG A, A IMG
+{
+    border: none;
+}
+.mainbg
+{
+    width: 1050px;
+    margin: auto;
+}
+#wrapper
+{
+    margin: 0 auto 0 auto;
+    width: 1000px;
+    background: url(../../images/bg_hd.jpg) top center no-repeat;
+    display: block;
+    float: left;
+}
+#header
+{
+    width: 1000px;
+    height: 115px;
+
+}
+#content
+{
+    width: 1000px;
+    margin: 15px 0 0 15px;
+    float:left;
+}
+#content_left
+{
+    float: left;
+    width: 223px;
+    height: auto;
+    background: url(../../images/hero_id.png) no-repeat;
+    
+    
+}
+#content_left_menu
+{
+    margin: 15px auto;
+    width: 233px;
+    
+  
+}
+#content_cen
+{
+    float: left;
+    width: 1000px;
+}
+#picshow
+{
+    float: left;
+    width: 497px;
+    height: 235px;
+   float:right; margin:6px 71px 0 0;
+
+}
+#livenews
+{
+    float: left;
+    width: 273px;
+    height: 240px;
+    background: url(../../images/livenews.jpg) no-repeat;
+ 
+    font-family: tahoma, sans-serif;
+  
+    font-size: 11px;
+    text-decoration: none;
+    color: #418915;
+}
+
+#Charbox
+{
+    float: left;
+    width: 273px;
+    height:auto;
+
+
+}
+#livenewsgame
+{
+    float: left;
+    width: 320px;
+    height: 155px;
+    padding: 10px 30px 20px 30px;
+    font-family: tahoma, sans-serif;
+    font-size: 11px;
+    text-decoration: none;
+    color: #418915;
+}
+
+
+#banner
+{
+    float: left;
+    width: 728px;
+    height: 90px;
+     margin:8px 0 0 10px;
+}
+#content_cen_left
+{
+    float: left;
+    width: 730px;
+    margin:0 0 0 10px;
+}
+#hotissue
+{
+    float: left;
+    width: 442px;
+  /*  height: 339px;*/
+    /*background: #000 url(../../images/bg_hotissue.jpg) no-repeat;*/
+    margin: 10px 0 0 0;
+    background:#fff;
+}
+#hotissue-new
+{
+    float: left;
+    margin:0px;  
+   
+}
+#wall_screen_vdo
+{
+    float: left;
+    width: 485px;
+    height: 188px;
+    background: url(../../images/bg_wallpaper.jpg) no-repeat;
+    margin: 10px 0 0 0;
+}
+
+
+
+#content_cen_right
+{
+    float: left;
+    width: 273px;
+    margin: 0 0 0 5px;
+}
+#vdo
+{
+    float: left;
+    width: 215px;
+    height: 140px;
+    background: url(../../images/bg_vdo.jpg) no-repeat;
+    margin-top: 10px;
+    padding: 42px 10px 10px 12px;
+}
+#facebook
+{
+    float: left;
+    width: 237px;
+    margin: 10px 0 0 0;
+}
+.facebook_hd
+{
+    display: block;
+    width: 237px;
+}
+.facebook_content
+{
+    display: block;
+    width: 237px;
+}
+#footer
+{
+    width: 1000px;
+    height: 124px;
+    background: url(../../images/bg_ft.jpg) no-repeat;
+    float: left;
+    margin: 20px 0 0 0;
+}
+#boxstat
+{
+    display: inline-block;
+    margin: 105px 70px 0 0;
+}
+.clearfix
+{
+    clear: both;
+}
+.both
+{
+    clear: both;
+}
+
+
+/*eto 17-2-2554*/
+#boxcontentpage
+{
+    float: left;
+   width: 1000px;
+}
+
+/*et0 25-2-2554 screenshot*/
+#listpic ul li
+{
+    list-style-type: none;
+    display: inline-block;
+    padding: 5px;
+    margin: 10px 10px 10px 10px;
+    border: 1px solid #C6B28C;
+    float: left;
+}
+
+#boxgameinfo
+{
+    width: 200px;
+    border: 1px dashed #785329;
+    margin: 5px 0 0 10px;
+    float: left;
+    padding: 0px;
+}
+#boxgameinfo ul li
+{
+    list-style-type: none;
+    width: 200px;
+}
+#boxgameinfo .linkgameinfo
+{
+    background: #F2EBE3;
+    text-align: center;
+    height: 43px;
+    border-bottom: 1px dashed #785329;
+}
+#boxgameinfo .linkgameinfotxt
+{
+    text-align: center;
+    width: 200px;
+    float: left;
+    height: 34px;
+    border-bottom: 1px dashed #785329;
+}
+#boxgameinfo .linkgameinfotxtl
+{
+    text-align: center;
+    width: 200px;
+    float: left;
+    height: 34px;
+}
+
+
+#boxgamebegin
+{
+    width: 200px;
+    border: 1px dashed #785329;
+    margin: 5px 0 0 10px;
+    float: left;
+    padding: 0px;
+}
+#boxgamebegin ul li
+{
+    list-style-type: none;
+    width: 200px;
+}
+#boxgamebegin .linkgameinfo
+{
+    background: #F2EBE3;
+    text-align: center;
+    height: 43px;
+    border-bottom: 1px dashed #785329;
+}
+#boxgamebegin .linkgameinfotxt
+{
+    text-align: center;
+    width: 200px;
+    float: left;
+    height: 35px;
+    border-bottom: 1px dashed #785329;
+}
+#boxgamebegin .linkgameinfotxtl
+{
+    text-align: center;
+    width: 200px;
+    float: left;
+    height: 35px;
+}
+.imgdot{ border:1px solid #E0CDA5; }
+
+#boxitemshot
+{ float:left;
+    background:url(../../images/hotitem.jpg) no-repeat;
+    height:161px;
+    width:273px;    text-align:center; 
+
+}
+#boxitemshot table{ margin:60px 0 0 0;}
+
+#boxserverlist{margin:5px 0 0 10px;width:205px; height:181px; background:url(../../images/server_bg.jpg) no-repeat;}
+#boxserverlist ul li{list-style-type:none; height:20px;}
+
+
+/*eto boxranking*/
+ #boxranking{width:273px; height:330px;}
+#boxbtranking{height: 30px; width: 243px; text-align: left; margin:15px 0 0 15px; float:left;}
+#box10rank{height: 175px; width: 243px; margin:18px 0 0 15px; float:left;  padding:1px;}
+#box10rank li
+{
+    list-style-type: none;
+    width:243px;
+    text-align:center;
+    float:left;
+    vertical-align:text-bottom;
+    margin:0 0 2px 0; 
+
+
+}
+
+.nrank{width:173px; float:left; height:15px;}
+.prank{width:70px; float:right;}

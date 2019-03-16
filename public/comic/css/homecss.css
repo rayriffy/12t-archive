@@ -1,0 +1,20 @@
+/* CSS Document */
+.mainbg {
+	background-image: url(../images/bg.jpg);
+	background-repeat: no-repeat;
+	background-position:center top;
+}
+#home {
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: auto;
+	margin-top: auto;
+}
+#footer {
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: auto;
+	margin-top: auto;
+}

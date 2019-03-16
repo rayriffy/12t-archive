@@ -1,0 +1,447 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>ข่าวสาร (News) : 12Tails 12หางออนไลน์</title>
+	<link rel="stylesheet" type="text/css" href="/css/css.css" />
+    <link href="/12tails_favicon.ico" rel="shortcut icon">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content=" 12Tails 12หางออนไลน์  เกมส์ออนไลน์ เล่นฟรี, MMORPG, เกมดีเกมมันส์ ,เกมคนไทย ">
+    <meta name="keywords" content="เกมส์,12Tails ,12หางออนไลน์, เกม, เกมส์ออนไลน์, เกมส์มันๆ, Battle of The Immortals, BOI, games, game online, Herorangers">
+    <meta name="Author" content="i Digital Connect">
+    <link rel="image_src" type="image" href="/images/12tlogo.jpg">
+	<meta property="og:type" content="website" />
+   <meta property="og:image" content="/images/12tlogo.jpg"/>
+   <meta property="og:title" content="12Tails 12หางออนไลน์ เกมสนุกภาพสวย ฝีมือคนไทย" />
+   <meta property="og:description" content="เกมส์,12Tails ,12หางออนไลน์, เกม, เกมส์ออนไลน์, เกมส์มันๆ,Herorangers" />
+   <meta property="og:site_name" content="/" />
+   <meta property="fb:app_id" content="231618850230945"/>
+
+<script src="/js/jquery.min.js" type="text/javascript"></script>
+<script src="/js/jquery-ui.js"></script>
+<script src="/js/jquery.marquee.js" type="text/javascript"></script>
+<script src="/js/swfobject.js"></script>
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-19728821-1']);
+    _gaq.push(['_setDomainName', '.herorangers.com']);
+    _gaq.push(['_trackPageview']);
+
+    (function () {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+</script>
+
+
+
+<script type='text/javascript'>
+
+$(document).ready(function () {	
+	$('#nav li').hover(
+		function () {
+			$('ul', this).stop(true, true).slideDown(200);
+		}, 
+		function () {
+			$('ul', this).stop(true, true).slideUp(200);			
+		}
+	);
+});
+</script>
+</head>
+<body style="margin:0px;">
+<!-- Topbar -->
+    <div style="position: absolute;right: 0;left: 0;z-index: 1000;margin-bottom: 0;">
+        <iframe src="http://herorangers.com/topbar/topbarhero.html" scrolling="no" allowtransparency="true"
+            frameborder="0" height="39" width="100%"></iframe>
+    </div>
+	<!-- end topbar -->	
+<div style="padding: 39px 0 0 0;">
+<div class="warp1">
+	<div class="center">
+		<div class="head">
+			<div class="logo">	
+				<a href="/home/home" title="Home" target="_self">
+					<object id="FlashID" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="490" height="176">
+					  <param name="movie" value="/flash/logo12tailsnew.swf" />
+					  <param name="quality" value="high" />
+					<param name="wmode" value="transparent" />
+					  <param name="swfversion" value="9.0.0.0" />
+					  <!-- This param tag prompts users with Flash Player 6.0 r65 and higher to download the latest version of Flash Player. Delete it if you don’t want users to see the prompt. -->
+					  <param name="expressinstall" value="/flash/expressInstall.swf" />
+					  <!-- Next object tag is for non-IE browsers. So hide it from IE using IECC. -->
+					  <!--[if !IE]>-->
+					  <object type="application/x-shockwave-flash" data="/flash/logo12tailsnew.swf" width="490" height="176">
+						<!--<![endif]-->
+						<param name="quality" value="high" />
+						<param name="wmode" value="transparent" />
+						<param name="swfversion" value="9.0.0.0" />
+						<param name="expressinstall" value="/flash/expressInstall.swf" />
+						<!-- The browser displays the following alternative content for users with Flash Player 6.0 and older. -->
+						<div>
+						  <a href="/home/home" target="_self" title="Hot news">
+							<img src="/images/t12logo.png" width="490" height="176" />
+						  </a>
+						</div>
+						<!--[if !IE]>-->
+					  </object>
+					  <!--<![endif]-->
+					</object>
+					<i style="display:block; width: 490px; height: 176px;  position: relative; z-index: 9; margin-top: -176px;"></i>
+				</a>
+			</div>
+			<div class="character">
+				<a href="" target="_self" title="หน้าหลัก"><div id="randomImage"></div></a>
+			</div>
+		</div>
+		<div class="body">
+			<div class="blogbanner">
+				<div class="menu">
+					<ul id="nav">
+					  <li class="tabm01"><a href="/newsupdate/allnews" class="m01" target="_self"></a>
+						<ul style="display: none; width:290px;">
+							<li>
+								<span class="istar"></span><a href="/newsupdate/allnews" class="bluetext13" target="_self" title="allnews">ข่าวทั้งหมด</a>&nbsp;
+								<span class="istar"></span><a href="/newsupdate/allnews?id=news" class="bluetext13" target="_self" title="news">ข่าวสาร</a>&nbsp;
+								<span class="istar"></span><a href="/newsupdate/allnews?id=event" class="bluetext13" target="_self" title="event">กิจกรรม</a>&nbsp;
+								<span class="istar"></span><a href="/newsupdate/allnews?id=promotion" class="bluetext13" target="_self" title="promotion">โปรโมชั่น</a>
+							</li>
+						</ul>
+					  </li>
+					  <li class="parade"><img src="/images/parade.jpg" width="2" height="48"></li>
+					  <li class="tabm02"><a href="/gameinfo/gameguide/newsmall.html" class="m02" target="_blank"></a>
+						<ul style="display: none; width:420px;">
+							<li>
+								<span class="istar"></span><a href="/gameinfo/story/small_content/story_small.html" class="bluetext13" target="_blank" title="Story">ความเป็นมา</a>&nbsp;
+								<span class="istar"></span><a href="/gameinfo/character/newchar.html" class="bluetext13" target="_blank" title="Character">ตัวละคร</a>&nbsp;
+								<span class="istar"></span><a href="/beginner/beginer/newbegin.html" class="bluetext13" target="_blank" title="Beginner Guide">คู่มือเริ่มเล่น</a>&nbsp;
+								<span class="istar"></span><a href="/gameinfo/gameguide/newsmall.html" class="bluetext13" target="_blank" title="System Guide">ระบบต่างๆ</a>&nbsp;
+								<span class="istar"></span><a href="/itemshop/itemshop" class="bluetext13" title="Item Guide">ไอเทมมอลล์</a>
+							</li>
+						</ul>
+					  </li>
+					  <li class="parade"><img src="/images/parade.jpg" width="2" height="48"></li>
+					  <li class="tabm03"><a class="m03"></a>
+						<ul style="display: none; width:230px;">
+							<li>
+								<span class="istar"></span><a href="/ranking/rank500?sid=C" class="bluetext13" title="Carronian">Carronian</a>&nbsp;
+								<span class="istar"></span><a href="/ranking/rank500?sid=M" class="bluetext13" title="Mupiea">Mupiea</a>
+							</li>
+						</ul>
+					  </li>
+					  <li class="parade"><img src="/images/parade.jpg" width="2" height="48"></li>
+					  <li class="tabm04"><a href="http://forum.herorangers.com/" class="m04" target="_blank"></a>
+						<ul style="display: none; width:230px;">
+							<li>
+								<span class="istar"></span><a href="http://forum.herorangers.com/" target="_blank" class="bluetext13" title="Webboard">Webboard</a>&nbsp;
+								<span class="istar"></span><a href="http://forum.herorangers.com/index.php?board=9.0" class="bluetext13" target="_self" title="Guild">Guild</a>&nbsp;
+								<span class="istar"></span><a href="https://www.facebook.com/HeroRangers" target="_blank" class="bluetext13" title="Facebook">Facebook</a>
+							</li>
+						</ul>
+					  </li>
+					  <li class="parade"><img src="/images/parade.jpg" width="2" height="48"></li>
+					  <li class="tabm05"><a href="/download/games/downloadall_12t" class="m05" target="_self"></a>
+						<ul style="display: none; width:230px;">
+							<li>
+								<span class="istar"></span><a href="/download/games/downloadall_12t" class="bluetext13" title="Client">Client</a>&nbsp;
+								<span class="istar"></span><a href="/download/games/downloadall_12t" class="bluetext13" title="Manual Patch">Manual Patch</a>
+								<span class="istar"></span><a href="/download/media/screenshot" class="bluetext13" title="promotion">Media</a>
+							</li>
+						</ul>
+					  </li>
+					  <li class="parade"><img src="/images/parade.jpg" width="2" height="48"></li>
+					  <li class="tabm06"><a href="http://herorangers.com/gm_direct/Login.aspx" class="m06" target="_blank"></a>
+						<ul style="display: none; width:350px; float:right;">
+							<li>
+								<span class="istar"></span><a href="/faq/faq_all" class="bluetext13" target="_self" title="FAQ">FAQ</a>&nbsp;
+								<span class="istar"></span><a href="/faq/rule" class="bluetext13" target="_self" title="Rules">Rules</a>&nbsp;
+								<span class="istar"></span><a href="http://herorangers.com/gm_direct/Login.aspx" class="bluetext13" target="_blank" title="GM Direct">GM Direct</a>&nbsp;
+								<span class="istar"></span><a href="http://www.herorangers.com/account_Login/herorangers_login.aspx" class="bluetext13" target="_blank" title="บัญชี HERO Passport">บัญชี HERO Passport</a>&nbsp;
+							</li>
+						</ul>
+					  </li>
+					  <li class="clear"></li>
+					  <li class="submenu"></li>
+					</ul>
+				</div>
+				<!--end menu--> 
+				<div class="setbanner">
+				  <div class="leftbanner">
+					<div class="bregister"><a href="http://www.herorangers.com/account_Login/herorangers_login.aspx" class="register" target="_blank" title="สมัครไอดี เกม 12หางออนไลน์"></a></div>
+					<div class="blink">
+						<span class="bluetext20">
+						<a href="http://www.herorangers.com/account_Login/Get_pwdhero.aspx" target="_blank" title="ลืมรหัสผ่าน">ลืมรหัสผ่าน Hero</a> I <a href="http://www.herorangers.com/account_Login/herorangers_login.aspx" target="_blank" title="แก้ไขข้อมูลส่วนตัว"> แก้ไขข้อมูลส่วนตัว</a>
+						</span>
+					</div>
+					<div class="bline"><img src="/images/line.png" width="222" height="1"></div>
+					<div class="bdownload"><a href="/download/games/downloadall_12t" class="download" target="_self" title="download เกม 12หางออนไลน์"></a></div>
+					<div class="brefill"><a href="http://refill.herorangers.com/heroblue/12t_refill.html" class="refill" target="_blank" title="เติมเงิน เกม 12หางออนไลน์"></a></div>
+					<div class="blink">
+					  <div class="iconstar"><img src="/images/iconstar.jpg" width="14" height="13"></div>
+					  <div class="fontstar"><span class="yellowtext20"><a href="http://billing.herorangers.com/autorized/refillblue_all.html" target="_blank" title="วิธีการเติมเงิน">วิธีการเติมเงิน</a></span></div>
+					  <div class="iconstar"><img src="/images/iconstar.jpg" width="14" height="13"></div>
+					  <div class="fontstar2"><span class="yellowtext20"><a href="http://herorangers.com/paymant/Payment_Channel.aspx" target="_blank" title="ช่องทางการเติมเงิน">ช่องทางการเติมเงิน</a></span></div>
+					  <div class="clear"></div>
+					</div>
+				  </div>
+				  
+				  
+				  <div class="rightbanner">
+					<div class="ttbanner">
+					<div style="width:630px;height:226px;background-image:url(/images/banner.jpg);">
+						<iframe src="/banner/banner" width="630" height="230" scrolling="no" frameborder="0" allowtransparency="true" style="margin: 0 0 0 0"></iframe>
+					</div>
+					</div>
+					<div class="mquee">
+					  <div class="inmquee">
+						<div class="marquee-with-options"><span style="color:#009900">หากเพื่อนๆ คนไหนเข้าเกมไม่ได้ ให้ลบเกมออก จากนั้นทำการโหลดตัวเกมแบบเต็มเวอร์ชั่นใหม่ล่าสุดไปลงแทนแล้ว</span><span style="color:#FFA500"><em>ปล่อยให้เกมอัพเดทอัตโนมัติ</em></span><span style="color:#009900">ครับ</span> &gt;&gt; <a href="/download/games/downloadall_12t"><strong>ดาวน์โหลดได้ที่นี้</strong></a> <span style="color:#009900">หากยังพบปัญหาอีก &nbsp;สามารถอ่านวิธีแก้ไขปัญหาเบื้องต้นได้ที่เว็บบอร์ดครับ &gt;&gt;</span> <a href="http://webboard.herorangers.com/webboard/Topic.aspx?id=66494"><strong>คลิ๊กเพื่อดูรายละเอียด</strong></a> <span style="color:#FFA500"><strong>หรือโทรถาม Call Center ที่โทร. 02-640-8225 ตลอด 24 ชั่วโมง</strong></span></div>
+					 </div>
+					</div>
+					<div class="clear"></div>
+				  </div>
+				  <div class="clear"></div>
+				</div>
+				<!--end setbanner--> 
+				<div class="clear"></div>
+				<div class="threecolumn"> 
+          <!--book and server-->
+          <div class="firstcolumn">
+			<div class="leftbtn"><a href="http://herorangers.com/activity/T12_BattleGodV2" target="_blank" title="12หางออนไลน์ : กิจกรรมประจำเดือนกันยายน"><img width="221" src="/images/button god.jpg"/></a></div>
+			<div class="leftbtn"><a href="http://www.herorangers.com/activity/T12_5YEVENT" target="_blank" title="12หางออนไลน์ : กิจกรรมมหาไอเทม"><img width="221" src="/images/bt_biggestitem.png"/></a></div>
+			<div class="leftbtn"><a href="http://www.herorangers.com/HeroSerial/condition.aspx" class="itemcode" target="_blank" title="เติมโค้ดรับไอเทม" ></a></div>
+            <div class="leftbtn"><a href="/comic/home.html" class="ttoon" target="_blank" title="อ่านการ์ตูน 12 หาง" ></a></div>
+			<div class="server"><br/><div class="carronian"><img src="/images/carronian_normal.jpg" alt="carronian 12หาง" width="194" height="40"></div></div>
+			<div class="facebook">
+				<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2F%23%21%2Fpages%2FHero-Rangers-hiro-ren-ce-xrs%2F151976128179013&amp;width=218&amp;height=384&amp;colorscheme=light&amp;show_faces=true&amp;header=true&amp;stream=false&amp;show_border=false&amp;header=false&amp;connections=12"
+				scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:218px; height:384px;" allowTransparency="true"></iframe>
+			</div><!--facebook-->
+		  </div>
+          <!--end book and server--> 
+		  
+          <div class="secondcolumn"> 
+	<div style="float: left; width: 665px; text-align: center; margin: 0 0 0 0;">
+
+		<div style="float: left; width: 665px; height: 82px; background: url(/images/hd_news.png) no-repeat; text-align: left;">
+        </div>
+		<div style="float: left; width: 665px; background: url(/images/rp_news.jpg); background-repeat:repeat-y; text-align: left;">
+			<div style="width: 620px; margin:0 0 0 30px; overflow-x:auto;">
+				<div><div style="margin: 0 0 0 20px;">
+						<a href="/newsupdate/allnews" class="bt_allnews" target="_self"></a>
+						<a href="/newsupdate/allnews?id=news" class="bt_news" target="_self"></a>
+						<a href="/newsupdate/allnews?id=event" class="bt_event" target="_self"></a>
+						<a href="/newsupdate/allnews?id=promotion" class="bt_promotion" target="_self"></a>
+					</div><div style="margin: 10px 0 0 20px;"><div class="evenblue"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=495" target="_self">Patch Update 6.09 : 5 Years Anniversary</a></span>
+						<span class="blackText13_right">11-08-2016</span></div><div class="oddwhite"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=476" target="_self">Patch Update 6.08 : Summer 2016</a></span>
+						<span class="blackText13_right">31-03-2016</span></div><div class="evenblue"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=471" target="_self">Patch Update 6.07 : 12Tails Valentines Expire</a></span>
+						<span class="blackText13_right">25-02-2016</span></div><div class="oddwhite"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=465" target="_self">Patch Update 6.06 : 12Tails Valentines</a></span>
+						<span class="blackText13_right">11-02-2016</span></div><div class="evenblue"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=462" target="_self">Patch Update 6.05 : ตรุษจีนตุ้งแช่</a></span>
+						<span class="blackText13_right">04-02-2016</span></div><div class="oddwhite"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=461" target="_self">วิธีการคัดลอกดาต้าจาก 12T Online ไปยัง 12T Mobile</a></span>
+						<span class="blackText13_right">03-02-2016</span></div><div class="evenblue"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=458" target="_self">Patch Update 6.04 : วันเด็ก expire</a></span>
+						<span class="blackText13_right">28-01-2016</span></div><div class="oddwhite"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=457" target="_self">ประกาศการคัดลอกข้อมูลตัวละครของเกม</a></span>
+						<span class="blackText13_right">21-01-2016</span></div><div class="evenblue"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=454" target="_self">Patch Update 6.03 : วันเด็ก</a></span>
+						<span class="blackText13_right">14-01-2016</span></div><div class="oddwhite"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=452" target="_self">Patch Update 6.01 : X'mas had coming</a></span>
+						<span class="blackText13_right">24-12-2015</span></div><div class="evenblue"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=440" target="_self">Patch Update 6.00 : Purgatory Plain</a></span>
+						<span class="blackText13_right">22-10-2015</span></div><div class="oddwhite"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=434" target="_self">ประกาศรายชื่อผู้โชคดี โปรโมชั่นพิเศษส่งท้ายเดือนสิงหาคม</a></span>
+						<span class="blackText13_right">04-09-2015</span></div><div class="evenblue"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=433" target="_self">แจ้งเตือนเว็บเพจปลอมแปลง 12หางออนไลน์ 2</a></span>
+						<span class="blackText13_right">20-08-2015</span></div><div class="oddwhite"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=425" target="_self">แจ้งเบาะแสโปรแกรมช่วยเล่นกันเถอะ</a></span>
+						<span class="blackText13_right">29-07-2015</span></div><div class="evenblue"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=423" target="_self">ประกาศยกเลิก Call center</a></span>
+						<span class="blackText13_right">29-07-2015</span></div><div class="oddwhite"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=422" target="_self">12 หางออนไลน์ ครบรอบ 4 ปี พาแฟนเกมเหินฟ้าตะลุยแดนกิมจิ</a></span>
+						<span class="blackText13_right">22-07-2015</span></div><div class="evenblue"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=421" target="_self">ประกาศ The ZENITH of TAILS: ทีมผู้รับรางวัลทั้งหมด</a></span>
+						<span class="blackText13_right">20-07-2015</span></div><div class="oddwhite"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=420" target="_self">ผลการแข่งขัน ZOT ตั้งแต่วันที่ 17  ก.ค 58</a></span>
+						<span class="blackText13_right">20-07-2015</span></div><div class="evenblue"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=417" target="_self">ผลการแข่งขัน ZOT ตั้งแต่วันที่ 13  ก.ค 58</a></span>
+						<span class="blackText13_right">14-07-2015</span></div><div class="oddwhite"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=416" target="_self">ผลการแข่งขัน ZOT ตั้งแต่วันที่ 10-12  ก.ค 58</a></span>
+						<span class="blackText13_right">13-07-2015</span></div><div class="evenblue"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=410" target="_self">ประกาศรายชื่อผู้โชคดีรับ L.BD Mellon Lv.9 (24 รางวัล)</a></span>
+						<span class="blackText13_right">07-07-2015</span></div><div class="oddwhite"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=409" target="_self">ผลการแข่งขัน ZOT ตั้งแต่วันที่ 3-6 ก.ค 58</a></span>
+						<span class="blackText13_right">07-07-2015</span></div><div class="evenblue"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=401" target="_self">Patch Update 5.97 : Rainy Season Pets</a></span>
+						<span class="blackText13_right">02-07-2015</span></div><div class="oddwhite"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=400" target="_self">ผลการแข่งขัน ZOT ตั้งแต่วันที่ 29 มิ.ย 58</a></span>
+						<span class="blackText13_right">30-06-2015</span></div><div class="evenblue"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=399" target="_self">ผลการแข่งขัน ZOT ตั้งแต่วันที่ 26-28 มิ.ย 58</a></span>
+						<span class="blackText13_right">29-06-2015</span></div><div class="oddwhite"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=391" target="_self">ผลการแข่งขัน ZOT ตั้งแต่วันที่ 23  มิ.ย 58</a></span>
+						<span class="blackText13_right">23-06-2015</span></div><div class="evenblue"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=390" target="_self">ผลการแข่งขัน ZOT ตั้งแต่วันที่ 19-21 มิ.ย 58</a></span>
+						<span class="blackText13_right">22-06-2015</span></div><div class="oddwhite"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=389" target="_self">Patch Update 5.96 ประจำวันที่ 19 มิ.ย. 58</a></span>
+						<span class="blackText13_right">19-06-2015</span></div><div class="evenblue"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=388" target="_self">เสื้อสุดแนว 12Tails Badstist Project ตัวละ 299 เท่านั้น</a></span>
+						<span class="blackText13_right">22-06-2015</span></div><div class="oddwhite"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=382" target="_self">Patch Update 5.95 ประจำวันที่ 18-30 มิ.ย. 58</a></span>
+						<span class="blackText13_right">18-06-2015</span></div><div class="evenblue"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=381" target="_self">ย้ายวันปิดปรับปรุงเซิร์ฟเวอร์เป็นวันที่ 18 มิ.ย.58</a></span>
+						<span class="blackText13_right">16-06-2015</span></div><div class="oddwhite"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=380" target="_self">ผลการแข่งขัน ZOT ตั้งแต่วันที่ 12-14 มิ.ย 58</a></span>
+						<span class="blackText13_right">15-06-2015</span></div><div class="evenblue"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=378" target="_self">ผลการแข่งขัน ZOT ตั้งแต่วันที่ 8 มิ.ย 58</a></span>
+						<span class="blackText13_right">09-06-2015</span></div><div class="oddwhite"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=376" target="_self">ผลการแข่งขัน ZOT ตั้งแต่วันที่ 5 -7 มิ.ย 58</a></span>
+						<span class="blackText13_right">08-06-2015</span></div><div class="evenblue"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=372" target="_self">ประกาศรายชื่อผู้โชคดี Special Promotion สำหรับผู้ที่เติมเงินวันที่ 25-31 พ.ค.58</a></span>
+						<span class="blackText13_right">03-06-2015</span></div><div class="oddwhite"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=371" target="_self">ประกาศรายชื่อผู้โชคดี Special Promotion สำหรับผู้ที่เติมเงินวันที่ 18-24 พ.ค.58</a></span>
+						<span class="blackText13_right">02-06-2015</span></div><div class="evenblue"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=370" target="_self">ผลการแข่งขัน ZOT ตั้งแต่วันที่ 29 พ.ค-1 มิ.ย</a></span>
+						<span class="blackText13_right">02-06-2015</span></div><div class="oddwhite"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=369" target="_self">เลื่อนประกาศชั่วคราว รายชื่อผู้โชคดี กิจกรรม  Special Promotionเติมเงินวันที่ 18-24 พ.ค.58</a></span>
+						<span class="blackText13_right">27-05-2015</span></div><div class="evenblue"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=365" target="_self">Patch Update 5.94 ประจำวันที่ 27 พ.ค.58</a></span>
+						<span class="blackText13_right">27-05-2015</span></div><div class="oddwhite"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=364" target="_self">ผลการแข่งขัน ZOT ตั้งแต่วันที่ 25 พ.ค</a></span>
+						<span class="blackText13_right">25-05-2015</span></div><div class="evenblue"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=363" target="_self">ผลการแข่งขัน ZOT ตั้งแต่วันที่23-24พ.ค</a></span>
+						<span class="blackText13_right">25-05-2015</span></div><div class="oddwhite"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=362" target="_self">ประกาศรายชื่อผู้โชคดี Special Promotion  สำหรับผู้ที่เติมเงินวันที่ 11-17 พ.ค.58</a></span>
+						<span class="blackText13_right">18-05-2015</span></div><div class="evenblue"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=361" target="_self">ประกาศตารางการแข่งขัน12Tails The zenith of tails เลเวล1-60 และ เลเวล61-95</a></span>
+						<span class="blackText13_right">13-05-2015</span></div><div class="oddwhite"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=360" target="_self">ประกาศผู้โชคดีกิจกรรมLike & Share แชร์ให้ลั่น สนั่น 4 ปี แพคเกจทัวร์ กรุงเทพเกาหลี</a></span>
+						<span class="blackText13_right">12-05-2015</span></div><div class="evenblue"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=359" target="_self">ประกาศผู้โชคดีกิจกรรม 12หาง Golden Week ครั้งที่2</a></span>
+						<span class="blackText13_right">12-05-2015</span></div><div class="oddwhite"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=356" target="_self">ประกาศรายชื่อทีมการแข่งขัน The ZENITH of TAILS</a></span>
+						<span class="blackText13_right">06-05-2015</span></div><div class="evenblue"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=353" target="_self">Patch Update 5.93 ประจำวันที่ 6 พ.ค.58</a></span>
+						<span class="blackText13_right">06-05-2015</span></div><div class="oddwhite"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=352" target="_self">อัพเดทผู้โชคดี Golden Week ครั้งที่1(ที่นี่)</a></span>
+						<span class="blackText13_right">27-04-2015</span></div><div class="evenblue"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=351" target="_self">ประกาศกิจกรรม 12หาง Golden Week ครั้งที่1</a></span>
+						<span class="blackText13_right">24-04-2015</span></div><div class="oddwhite"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=349" target="_self">Patch Update 5.92 ประจำวันที่ 22 เม.ย. 58</a></span>
+						<span class="blackText13_right">22-04-2015</span></div><div class="evenblue"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=339" target="_self">12หาง Golden Weekลุ้นบินลัดฟ้าสู่แดนกิมจิ!!</a></span>
+						<span class="blackText13_right">31-03-2015</span></div><div class="oddwhite"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=335" target="_self">12หาง กิจกรรม Like & Share แชร์ให้ลั่น สนั่น 4 ปี</a></span>
+						<span class="blackText13_right">18-03-2015</span></div><div class="evenblue"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=333" target="_self">The ZENITH of TAILS: สุดยอดการแข่งขัน PVP 12 หาง มาแล้ว</a></span>
+						<span class="blackText13_right">18-03-2015</span></div><div class="oddwhite"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=332" target="_self">ประกาศรายชื่อผู้โชคดี โปรโมชั่น ลุ้นรับเครื่องประดับในตำนวน +12</a></span>
+						<span class="blackText13_right">26-02-2015</span></div><div class="evenblue"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=329" target="_self">Patch Update 5.87 12หางฉลองเทศกาลตรุษจีน</a></span>
+						<span class="blackText13_right">18-02-2015</span></div><div class="oddwhite"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=325" target="_self">Patch Update!! 5.86 วันวาเลนไทน์ 4 ก.พ. 58</a></span>
+						<span class="blackText13_right">04-02-2015</span></div><div class="evenblue"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=323" target="_self">วิธีเติมเงินด้วยระบบ ibaht</a></span>
+						<span class="blackText13_right">22-01-2015</span></div><div class="oddwhite"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=318" target="_self">Patch Update 5.85 ประจำวันที่ 7 ม.ค. ต้อนรับวันเด็ก</a></span>
+						<span class="blackText13_right">07-01-2015</span></div><div class="evenblue"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=315" target="_self">Patch 5.84 ประจำวันที่ 24 ธันวาคม 2557</a></span>
+						<span class="blackText13_right">24-12-2014</span></div><div class="oddwhite"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=311" target="_self">Patch 5.83 ยินดีต้อนรับการรวมเซิร์ฟ</a></span>
+						<span class="blackText13_right">04-12-2014</span></div><div class="evenblue"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=305" target="_self">Patch 5.83 ประจำวันที่ 19 พฤศจิกายน 2557</a></span>
+						<span class="blackText13_right">19-11-2014</span></div><div class="oddwhite"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=303" target="_self">12หาง พร้อมให้ย้ายบ้านแล้ว วันนี้!!</a></span>
+						<span class="blackText13_right">17-11-2014</span></div><div class="evenblue"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=301" target="_self">FAQ รวมคำถามการย้ายเซิฟเวอร์</a></span>
+						<span class="blackText13_right">13-11-2014</span></div><div class="oddwhite"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=300" target="_self">วิธีลงทะเบียนย้ายเซิฟเวอร์</a></span>
+						<span class="blackText13_right">13-11-2014</span></div><div class="evenblue"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=296" target="_self">12หางเตรียมตัวรวมย้ายบ้าน 17 - 3 ธ.ค. 57 นี้</a></span>
+						<span class="blackText13_right">14-11-2014</span></div><div class="oddwhite"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=294" target="_self">Patch 5.82 ประจำวันที่ 5 พฤศจิกายน 2557</a></span>
+						<span class="blackText13_right">05-11-2014</span></div><div class="evenblue"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=291" target="_self">Patch Update 5.81 ประจำวันที่ 29 ต.ค.57</a></span>
+						<span class="blackText13_right">29-10-2014</span></div><div class="oddwhite"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=284" target="_self">Patch Update 5.80 ประจำวันที่ 8 ต.ค.57</a></span>
+						<span class="blackText13_right">08-10-2014</span></div><div class="evenblue"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=283" target="_self">[ประกาศ] รวมบ้าน Carronian และ Mupiea</a></span>
+						<span class="blackText13_right">30-09-2014</span></div><div class="oddwhite"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=282" target="_self">Patch Update 5.79 ประจำวันที่ 24 ก.ย.57</a></span>
+						<span class="blackText13_right">24-09-2014</span></div><div class="evenblue"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=277" target="_self">ประกาศ : ปัญหาระบบ Call Center</a></span>
+						<span class="blackText13_right">23-09-2014</span></div><div class="oddwhite"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=275" target="_self">Patch Update 5.78 ประจำวันที่ 10 ก.ย.57</a></span>
+						<span class="blackText13_right">10-09-2014</span></div><div class="evenblue"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=274" target="_self">Patch Update 5.77 ประจำวันที่ 3 ก.ย.57</a></span>
+						<span class="blackText13_right">03-09-2014</span></div><div class="oddwhite"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=267" target="_self">Patch Update 5.76 ประจำวันที่ 27 ส.ค.57</a></span>
+						<span class="blackText13_right">27-08-2014</span></div><div class="evenblue"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=265" target="_self">Patch Update 5.75 ประจำวันที่ 30 ก.ค. 57</a></span>
+						<span class="blackText13_right">30-07-2014</span></div><div class="oddwhite"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=261" target="_self">แข่งขันรอบพิเศษกับทีมงาน BigBug</a></span>
+						<span class="blackText13_right">23-07-2014</span></div><div class="evenblue"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=259" target="_self">ประกาศจาก 12 Tails Animal Warrior</a></span>
+						<span class="blackText13_right">09-07-2014</span></div><div class="oddwhite"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=258" target="_self">12 หางออนไลน์ ฉลองครบรอบ 3 ปี พาแฟนเกมบินลัดฟ้าสู่ฮ่องกง</a></span>
+						<span class="blackText13_right">08-07-2014</span></div><div class="evenblue"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=257" target="_self">ผลการแข่ง 12 Tails Animal Warrior Final</a></span>
+						<span class="blackText13_right">07-07-2014</span></div><div class="oddwhite"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=255" target="_self">ผลการแข่ง 12 Tails Animal Warrior 27/28/29-06-57</a></span>
+						<span class="blackText13_right">30-06-2014</span></div><div class="evenblue"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=250" target="_self">Patch Update 5.74 ประจำวันที่ 25 มิ.ย.57</a></span>
+						<span class="blackText13_right">25-06-2014</span></div><div class="oddwhite"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=248" target="_self">ผลการแข่ง 12 Tails Animal Warrior 20/21/22/23-06/57</a></span>
+						<span class="blackText13_right">23-06-2014</span></div><div class="evenblue"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=247" target="_self">ผลการแข่ง 12 Tails Animal Warrior 17-06-57</a></span>
+						<span class="blackText13_right">18-06-2014</span></div><div class="oddwhite"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=246" target="_self">ผลการแข่ง 12 Tails Animal Warrior  16-06-57</a></span>
+						<span class="blackText13_right">17-06-2014</span></div><div class="evenblue"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=245" target="_self">ผลการแข่ง 12 Tails Animal Warrior 15-06-57</a></span>
+						<span class="blackText13_right">16-06-2014</span></div><div class="oddwhite"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=244" target="_self">ประกาศ : แจ้งปัญหามูเปีย รีม 2</a></span>
+						<span class="blackText13_right">11-06-2014</span></div><div class="evenblue"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=243" target="_self">ผลการแข่ง 12 Tails Animal Warrior 09-06-57</a></span>
+						<span class="blackText13_right">10-06-2014</span></div><div class="oddwhite"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=242" target="_self">ผลการแข่ง 12 Tails Animal Warrior 6/7/8-06-57</a></span>
+						<span class="blackText13_right">14-06-2014</span></div><div class="evenblue"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=241" target="_self">สรุปรายชื่อผู้โชคดีเที่ยวฮ่องกงดิสนี่ย์แลนด์</a></span>
+						<span class="blackText13_right">09-06-2014</span></div><div class="oddwhite"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=240" target="_self">อัพเดทรายชื่อ !! ผู้โชดคีเที่ยวฮ่องกงดิสนี่ย์แลนด์</a></span>
+						<span class="blackText13_right">06-06-2014</span></div><div class="evenblue"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=239" target="_self">ผลการแข่ง 12 Tails Animal Warrior 03-06-57</a></span>
+						<span class="blackText13_right">04-06-2014</span></div><div class="oddwhite"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=238" target="_self">ผลการแข่ง 12 Tails Animal Warrior 02-06-57</a></span>
+						<span class="blackText13_right">03-06-2014</span></div><div class="evenblue"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=237" target="_self">ผลการแข่ง 12 Tails Animal Warrior 30/31-05+01-06-57</a></span>
+						<span class="blackText13_right">02-06-2014</span></div><div class="oddwhite"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=236" target="_self">อัพเดท !! ลุ้นตั๋วฮ่องกงดิสนี่ย์แลนด์ 2 รางวัล</a></span>
+						<span class="blackText13_right">29-05-2014</span></div><div class="evenblue"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=235" target="_self">ผลการแข่ง 12 Tails Animal Warrior 27-05-57</a></span>
+						<span class="blackText13_right">28-05-2014</span></div><div class="oddwhite"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=234" target="_self">ผลการแข่ง 12 Tails Animal Warrior  26-05-57</a></span>
+						<span class="blackText13_right">27-05-2014</span></div><div class="evenblue"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=233" target="_self">ผลการแข่ง 12 Tails Animal Warrior 24/25-05-14</a></span>
+						<span class="blackText13_right">26-05-2014</span></div><div class="oddwhite"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=232" target="_self">ประกาศผู้โชคดีเที่ยวฮ่องกง</a></span>
+						<span class="blackText13_right">23-05-2014</span></div><div class="evenblue"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=231" target="_self">ตารางแข่ง 12 Tails Animal Warrior</a></span>
+						<span class="blackText13_right">23-05-2014</span></div><div class="oddwhite"><span class="blackText13"><a href="/newsupdate/news?cate=2&content=230" target="_self">อัพเดทแพชประจำวันที่ 21 พ.ค.</a></span>
+						<span class="blackText13_right">21-05-2014</span></div></div></div>
+			</div>
+        </div>
+		<div style="float: left; width: 665px; height: 39px; background: url(/images/ft_news.png) no-repeat;text-align: left;">
+        </div>
+    </div>
+</div>
+
+		  
+          <!--end news, gm,  bug,  and other-->
+          <div class="clear"></div>
+        </div>
+			</div>
+			<!--end blogbanner--> 
+		</div>
+		<div class="clear"></div>
+	</div>
+	<!-- end center>
+</div>
+<!-- end warp1 -->
+</div>
+<!-- end padding 39px -->
+<div class="warpf">
+	<div class="centerfootage">
+	<!-- menu footage-->
+	<div class="borfootage">
+	<div class="fmenu">
+	<div class="fm"><span class="white16"><strong>ข่าวสาร</strong></span></div>
+	<div class="fmsub"><span class="whiteb11"><a href="/newsupdate/allnews" target="_self" title="allnews">- ข่าวทั้งหมด</a></span></div>
+	<div class="fmsub"><span class="whiteb11"><a href="/newsupdate/allnews?id=news" target="_self" title="news">- ข่าวสาร</a></span></div>
+	<div class="fmsub"><span class="whiteb11"><a href="/newsupdate/allnews?id=event" target="_self" title="event">- กิจกรรม</a></span></div>
+	<div class="fmsub"><span class="whiteb11"><a href="/newsupdate/allnews?id=promotion" target="_self"  title="promotion">- โปรโมชั่น</a></span></div>
+	</div>
+	<div class="fmenu2">
+	<div class="fm"><span class="white16"><strong>ระบบเกม</strong></span></div>
+	<div class="fmsub"><span class="whiteb11"><a href="/gameinfo/story/small_content/story_small.html" target="_blank" title="Story">- ความเป็นมา</a></span></div>
+	<div class="fmsub"><span class="whiteb11"><a href="/gameinfo/character/newchar.html" target="_blank" title="Character">- ตัวละคร</a></span></div>
+	<div class="fmsub"><span class="whiteb11"><a href="/beginner/beginer/newbegin.html" target="_blank" title="Beginner Guide">- คู่มือเริมเล่น</a></span></div>
+	<div class="fmsub"><span class="whiteb11"><a href="/gameinfo/gameguide/newsmall.html" target="_blank" title="System Guide">- ระบบต่างๆ</a></span></div>
+	<div class="fmsub"><span class="whiteb11"><a href="/itemshop/itemshop" target="_blank" title="Item Guide">- ไอเทมมอลล์</a></span></div>
+	</div>
+	<div class="fmenu2">
+	<div class="fm"><span class="white16"><strong>อันดับผู้เล่น</strong></span></div>
+	<div class="fmsub"><span class="whiteb11"><a href="/ranking/rank500?sid=C">- Carronian</a></span></div>
+	<div class="fmsub"><span class="whiteb11"><a href="/ranking/rank500?sid=M">- Mupiea</a></span></div>
+	</div>
+	<div class="fmenu2">
+	<div class="fm"><span class="white16"><strong>คอมมูนิตี้</strong></span></div>
+	<div class="fmsub"><span class="whiteb11"><a href="http://forum.herorangers.com/"  title="Webboard">- Webboard</a></span></div>
+	<div class="fmsub"><span class="whiteb11"><a href="http://forum.herorangers.com/index.php?board=9.0" target="_self" title="Guild">- Guild</a></span></div>
+	<div class="fmsub"><span class="whiteb11"><a href="https://www.facebook.com/HeroRangers" target="_blank" title="Facebook">- Facebook</a></span></div>
+	</div>
+	<div class="fmenu2">
+	<div class="fm"><span class="white16"><strong>ดาวน์โหลด</strong></span></div>
+	<div class="fmsub"><span class="whiteb11"><a href="/download/games/downloadall_12t">- Client</a></span></div>
+	<div class="fmsub"><span class="whiteb11"><a href="/download/games/downloadall_12t">- Manual Patch</a></span></div>
+	<div class="fmsub"><span class="whiteb11"><a href="/download/media/screenshot" target="_blank" title="Media">- Media</a></span></div>
+	</div>
+	<div class="fmenu3">
+	<div class="fm"><span class="white16"><strong>ติดต่อ GM</strong></span></div>
+	<div class="fmsub2"><span class="whiteb11"><a href="/faq/faq_all" title="FAQ">- FAQ</a></span></div>
+	<div class="fmsub2"><span class="whiteb11"><a href="/faq/rule" title="Rules">- Rules</a></span></div>
+	<div class="fmsub2"><span class="whiteb11"><a href="http://herorangers.com/gm_direct/Login.aspx" target="_blank" title="GM Direct">- GM Direct</a></span></div>
+	<div class="fmsub2"><span class="whiteb11"><a href="http://www.herorangers.com/account_Login/herorangers_login.aspx" target="_blank" title="บัญชี HERO Passport">- บัญชี HERO Passport</a></span></div>
+	</div>
+	<div class="clear"></div>
+	<div style="text-align:center; width:800px;"><script type="text/javascript" language="javascript1.1" src="http://tracker.stats.in.th/tracker.php?uid=28319"></script><noscript><a target="_blank" href="http://www.stats.in.th/">www.Stats.in.th</a></noscript></div><br/>
+	</div>
+	<!--end  menu footage-->
+	<!-- sponsor footage-->
+	<div class="bspon"><img src="/images/spon.jpg" width="823" height="65"></div>
+	<!--end  sponsor footage-->
+	</div>
+</div>
+<!-- end warpf -->
+<script type="text/javascript">
+      var randomImage = {
+        paths: [
+          /*"/images/character.png",
+          "/images/character2.png",
+		  "/images/character3.png",
+		  "/images/character4.png"*/
+
+		  "http://i.imgur.com/a5oROSw.png",
+          "http://i.imgur.com/VxNOTCq.png",
+		  "http://i.imgur.com/69ex0x3.png",
+		  "http://i.imgur.com/yxTQW4g.png"
+        ],
+        
+        generate: function(){
+          var path = randomImage.paths[Math.floor(Math.random()*randomImage.paths.length)];
+          var img = new Image();
+          img.src = path;
+          img.alt = "12Tails 12หางออนไลน์"; 
+          $("#randomImage").html(img);
+          $("#randomImage").attr(path);
+        }
+      }
+      randomImage.generate();
+</script> 
+<script type="text/javascript">
+$(document).ready(function(){
+	$('.marquee-with-options').marquee({
+		speed: 16000,
+		gap: 50,
+		delayBeforeStart: 0,
+		direction: 'left',
+		duplicated: true,
+		pauseOnHover: true
+	});
+});
+</script>
+
+</body>
+</html>

@@ -1,0 +1,178 @@
+/* CSS Document */
+.brown1
+{
+    font-family: tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 11px;
+    line-height: 15px;
+    color: #514228;
+}
+.brown1 a
+{
+    font-family: tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 11px;
+    text-decoration: none;
+    color: #514228;
+}
+.brown1 a:hover
+{
+    font-family: tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 11px;
+    color: #063;
+}
+.brown11nb
+{
+    font-family: tahoma, sans-serif;
+    font-size: 11px;
+    line-height: 15px;
+    color: #514228;
+}
+.orange1
+{
+    font-family: tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+    color: #ff4800;
+}
+.orange1 a
+{
+    font-family: tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 12px;
+    text-decoration: none;
+    color: #ff4800;
+}
+.orange1 a:hover
+{
+    font-family: tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 12px;
+    color: #063;
+}
+.green1
+{
+    font-family: tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 15px;
+    color: #418915;
+}
+.green1 a
+{
+    font-family: tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+    text-decoration: none;
+    color: #418915;
+}
+.green1 a:hover
+{
+    font-family: tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+    color: #F60;
+}
+.green2
+{
+    font-family: tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 15px;
+    color: #57a530;
+}
+.green2 a
+{
+    font-family: tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 12px;
+    text-decoration: none;
+    color: #57a530;
+}
+.green2 a:hover
+{
+    font-family: tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 12px;
+    color: #063;
+}
+
+.txgrayss
+{
+    font-size: 13px;
+    font-weight: normal;
+    text-decoration: none;
+    color: #333;
+}
+.tx_brown
+{
+    font-family: Tahoma, "MS Sans Serif" , "Microsoft Sans Serif";
+    font-size: 12px;
+    color: #8e6e47;
+    text-decoration: none;
+    font-weight: normal;
+}
+.tx_brown a
+{
+    font-family: Tahoma, "MS Sans Serif" , "Microsoft Sans Serif";
+    font-size: 12px;
+    color: #8e6e47;
+    text-decoration: underline;
+    font-weight: normal;
+}
+.tx_brown a:hover
+{
+    font-family: Tahoma, "MS Sans Serif" , "Microsoft Sans Serif";
+    font-size: 12px;
+    color: #6C0;
+    text-decoration: underline;
+    font-weight: normal;
+}
+.tx_brown2
+{
+    font-family: Tahoma, "MS Sans Serif" , "Microsoft Sans Serif";
+    font-size: 12px;
+    color: #562e11;
+    text-decoration: none;
+    font-weight: bold;
+}
+.tx_white
+{
+    font-family: Tahoma, "MS Sans Serif" , "Microsoft Sans Serif";
+    font-size: 12px;
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: bold;
+}
+.fillin_txgray {
+	font-family: "Microsoft Sans Serif", "Ms Sans Serif", Tahoma;
+	font-size: 11px;
+	color: #333333;
+	text-decoration: none;
+	border: 1px solid #666666;
+	padding-left: 5px;
+    margin-left: 0px;
+}
+.tx_white2 {
+	font-family: Tahoma, "MS Sans Serif", "Microsoft Sans Serif";
+	font-size: 10px;
+	color: #ffffff;
+	text-decoration: none;
+	font-weight: bold;
+}
+	.tx_white2 a{
+	font-family: Tahoma, "MS Sans Serif", "Microsoft Sans Serif";
+	font-size: 10px;
+	color: #ffffff;
+	text-decoration: none;
+	font-weight: bold;
+}
+	.tx_white2 a:hover{
+	font-family: Tahoma, "MS Sans Serif", "Microsoft Sans Serif";
+	font-size: 10px;
+	color: #418915;
+	text-decoration: none;
+	font-weight: bold;
+}

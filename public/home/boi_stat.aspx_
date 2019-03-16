@@ -1,0 +1,18 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+	BOI stat
+</title></head>
+<body>
+    <form method="post" action="boi_stat.aspx" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNzgzNDMwNTMzZGQHK66TNGVRDip8McTF772wrI4SS0GWAhaTz0ed26Eecw==" />
+
+    <div>
+    
+    </div>
+    </form>
+</body>
+</html>

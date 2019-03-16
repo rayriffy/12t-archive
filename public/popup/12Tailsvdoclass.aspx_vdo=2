@@ -1,0 +1,89 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+	12หางออลน์ไลน์ VDO : คลิ๊ป เกม 12หางออนไลน์
+</title><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="MSSmartTagsPreventParsing" content="true" /><meta name="robots" content="index, follow" /><meta name="description" content="12หางออนไลน์  เกมส์ออนไลน์ เล่นฟรี, other games MMORPG, 12T" /><meta name="keywords" content="เกมส์, เกม, เกมส์ออนไลน์, เกมส์มันๆ, 12Tails, 12หางออนไลน์, games MMORPG, game online, Herorangers" /><meta name="Author" content="i Digital Connect" />
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-19728821-1']);
+            _gaq.push(['_setDomainName', '.herorangers.com']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+<style type="text/css">
+<!--
+body {
+     margin:0px;
+     background:#3D6D77;
+
+
+}
+#container {
+	height: 450px;
+	width: 680px;
+	background:url(images/bgvdo.jpg) no-repeat;
+
+}
+#boxyoutubefile{ margin:15px;}
+.img_b2 {
+	margin: 5px;
+	border: 1px solid #000000;
+}
+.txgray11 {
+	font-family: Tahoma, "MS Sans Serif", "Microsoft Sans Serif";
+	font-size: 11px;
+	color: #666666;
+	text-decoration:none;
+	font-weight:bold;
+}
+-->
+</style>
+
+
+<script type="text/javascript">
+<!--
+    function MM_preloadImages() { //v3.0
+        var d = document; if (d.images) {
+            if (!d.MM_p) d.MM_p = new Array();
+            var i, j = d.MM_p.length, a = MM_preloadImages.arguments; for (i = 0; i < a.length; i++)
+                if (a[i].indexOf("#") != 0) { d.MM_p[j] = new Image; d.MM_p[j++].src = a[i]; }
+        }
+    }
+    function MM_swapImgRestore() { //v3.0
+        var i, x, a = document.MM_sr; for (i = 0; a && i < a.length && (x = a[i]) && x.oSrc; i++) x.src = x.oSrc;
+    }
+
+    function MM_findObj(n, d) { //v4.01
+        var p, i, x; if (!d) d = document; if ((p = n.indexOf("?")) > 0 && parent.frames.length) {
+            d = parent.frames[n.substring(p + 1)].document; n = n.substring(0, p);
+        }
+        if (!(x = d[n]) && d.all) x = d.all[n]; for (i = 0; !x && i < d.forms.length; i++) x = d.forms[i][n];
+        for (i = 0; !x && d.layers && i < d.layers.length; i++) x = MM_findObj(n, d.layers[i].document);
+        if (!x && d.getElementById) x = d.getElementById(n); return x;
+    }
+
+    function MM_swapImage() { //v3.0
+        var i, j = 0, x, a = MM_swapImage.arguments; document.MM_sr = new Array; for (i = 0; i < (a.length - 2); i += 3)
+            if ((x = MM_findObj(a[i])) != null) { document.MM_sr[j++] = x; if (!x.oSrc) x.oSrc = x.src; x.src = a[i + 2]; }
+    }
+//-->
+</script>
+</head>
+<body style="margin:0px;">
+<div id="container">
+<div id="boxyoutubefile">
+<iframe title="YouTube video player" width="640" height="390" src="http://www.youtube.com/embed/0YnPmWJeC1o" frameborder="0" allowfullscreen></iframe>
+   </div></div>
+<div style="float:left; margin:20px;">
+<script type="text/javascript" language="javascript1.1" src="http://tracker.stats.in.th/tracker.php?uid=28319"></script><noscript><a target="_blank" href="http://www.stats.in.th/">www.Stats.in.th</a></noscript></div>
+</body>
+</html>

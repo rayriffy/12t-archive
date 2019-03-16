@@ -1,0 +1,58 @@
+#landingbg {
+	background: url(../images/landing/4anniversary/bg.jpg) no-repeat center top ;
+	margin:0;
+}
+#landingbg_cen {
+	background: url(../images/landing/4anniversary/bg2.jpg) no-repeat center top ;
+	margin: auto;
+	width: 1200px;
+	overflow:hidden;
+}
+.head {
+	float:left;
+	width: 1200px;
+	height: 790px;
+}
+.menu {
+	float:left;
+	width: 1200px;
+	height: 100px;
+}
+	.menu1 {
+	float:left;
+	width: 252px;
+	height: 81px;
+	}
+	.menu2 {
+	float:left;
+	width: 252px;
+	height: 81px;
+	margin-left: -10px;
+	}
+	.menu3 {
+	float:left;
+	width: 252px;
+	height: 81px;
+	margin-left: -10px;
+	}
+	.menu4 {
+	float:left;
+	width: 252px;
+	height: 81px;
+	margin-left: 400px;
+	}
+.footer {
+	float:left;
+	width: 1200px;
+	height: 69px;
+	margin-top: 10px;
+}
+.body {
+	margin:0px;
+	background-color: #000;
+}
+.html{
+	margin:0px;
+	background-color:#000;
+}
+
