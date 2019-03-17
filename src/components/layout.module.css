@@ -1,7 +1,13 @@
+body {
+	background-position: top;
+	margin: 0;
+	padding: 0;
+}
+
 .wrap {
   width: 100%;
   height: auto;
-  background: url(../images/bg.jpg) no-repeat center top;
+  background: url(../assets/images/background/bg.jpg) no-repeat center top;
 }
 
 .container {

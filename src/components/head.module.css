@@ -13,7 +13,7 @@
   height: 176px;
   position: relative;
   z-index: 9;
-  margin-top: -176px;
+  /* margin-top: -176px; */
 }
 
 .character {
@@ -23,4 +23,11 @@
   width: 732px;
   height: 680px;
   z-index: 3;
+}
+
+.head {
+  position: relative;
+  width: 1000px;
+  height: 265px;
+  z-index: 1;
 }
