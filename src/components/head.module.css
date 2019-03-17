@@ -1,0 +1,26 @@
+.logo {
+  position: absolute;
+  top: 60px;
+  left: 10px;
+  width: 490px;
+  height: 176px;
+  z-index: 1;
+}
+
+.image {
+  display: block;
+  width: 490px;
+  height: 176px;
+  position: relative;
+  z-index: 9;
+  margin-top: -176px;
+}
+
+.character {
+  position: absolute;
+  top: 0px;
+  left: 395px;
+  width: 732px;
+  height: 680px;
+  z-index: 3;
+}

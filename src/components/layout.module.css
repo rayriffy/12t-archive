@@ -1,0 +1,12 @@
+.wrap {
+  width: 100%;
+  height: auto;
+  background: url(../images/bg.jpg) no-repeat center top;
+}
+
+.container {
+  position: relative;
+  margin: 0 auto;
+  width: 1000px;
+  height: auto;
+}

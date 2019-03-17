@@ -1,0 +1,19 @@
+<html>
+  <head>
+    <title>12TailsOnline Archive</title>
+    <script type="text/javascript">
+      var urlarray = new Array("/home/home.aspx");
+
+      randomno = Math.floor(Math.random() * urlarray.length);
+
+      urlran = urlarray[randomno]
+
+      function go() {
+        var url = urlran;
+        var target = "_self";
+        window.open(url, target);
+      }
+    </script>
+  </head>
+  <body onload="go()"></body>
+</html>

@@ -3,9 +3,13 @@
 
 An stupid attempt to restore 12TailsOnline site
 
-PERSONAL NOTE
--------------
+Plan
+----
 
-[ ] Formatting (`faq down`)
-[ ] Understanding
-[ ] Recreating from modern web technologies
+- [x] Restore sites from archive
+- [ ] Restructure data
+- [ ] Make site dynamically avaliable
+- [ ] Modernize it!
+  - [ ] Speed
+  - [ ] Mobile-friendly
+  - [ ] PWA???
