@@ -1,0 +1,178 @@
+ul, li {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  border: 0;
+}
+
+.menu {
+  position: relative;
+  margin: 0 auto;
+  width: 897px;
+  height: 76px;
+  z-index: 10;
+}
+
+.parade {
+  width: 2px;
+  height: 48px;
+  float: left;
+  z-index: 5;
+}
+
+.parade img {
+  width: 2px;
+  height: 48px;
+}
+
+.bluetext13 {
+  font-family: Tahoma, "Microsoft Sans Serif";
+  font-weight: normal;
+  font-size: 14px;
+  color: #e0f6fc;
+  text-decoration: none;
+}
+
+a.bluetext13:visited {
+  color: #e0f6fc;
+  text-decoration: none;
+}
+
+a.bluetext13:link {
+  color: #e0f6fc;
+  text-decoration: none;
+}
+
+.istar {
+  background: url(../assets/images/icons/iconstar.jpg) no-repeat left top;
+  width: 14px;
+  height: 13px;
+  border: 0px;
+  display: inline-block;
+  vertical-align: text-top;
+  margin: 2px 0 0 0;
+}
+
+.tabm01 {
+  width: 122px;
+  height: 48px;
+  float: left;
+  z-index: 5;
+}
+
+.tabm02 {
+  width: 146px;
+  height: 48px;
+  float: left;
+  z-index: 5;
+}
+
+.tabm03 {
+  width: 163px;
+  height: 48px;
+  float: left;
+  z-index: 5;
+}
+
+.tabm04 {
+  width: 159px;
+  height: 48px;
+  float: left;
+  z-index: 5;
+}
+
+.tabm05 {
+  width: 147px;
+  height: 48px;
+  float: left;
+  z-index: 5;
+}
+
+.tabm06 {
+  width: 148px;
+  height: 48px;
+  float: left;
+  z-index: 5;
+}
+
+.clear {
+  clear: both;
+}
+
+.submenu {
+  width: 897px;
+  height: 27px;
+  z-index: 5;
+}
+
+a.m01 {
+  width: 122px;
+  height: 48px;
+  display: block;
+  background: url(../assets/images/menu/m01.jpg) no-repeat;
+  z-index: 5;
+}
+
+a.m02 {
+  width: 146px;
+  height: 48px;
+  display: block;
+  background: url(../assets/images/menu/m02.jpg) no-repeat;
+  z-index: 5;
+}
+
+a.m03 {
+  width: 163px;
+  height: 48px;
+  display: block;
+  background: url(../assets/images/menu/m03.jpg) no-repeat;
+  z-index: 5;
+}
+
+a.m04 {
+  width: 159px;
+  height: 48px;
+  display: block;
+  background: url(../assets/images/menu/m04.jpg) no-repeat;
+  z-index: 5;
+}
+
+a.m05 {
+  width: 147px;
+  height: 48px;
+  display: block;
+  background: url(../assets/images/menu/m05.jpg) no-repeat;
+  z-index: 5;
+}
+
+a.m06 {
+  width: 148px;
+  height: 48px;
+  display: block;
+  background: url(../assets/images/menu/m06.jpg) no-repeat;
+  z-index: 5;
+}
+
+#nav > li > ul {
+  position: relative;
+  display: none;
+  padding: 0;
+  list-style: none;
+}
+
+#nav > li > ul > li {
+  display: inline;
+  text-align: center;
+  line-height: 28px;
+  min-width: 100%;
+  min-height: 28px;
+  position: absolute;
+}
+
+#nav > li > ul > li a {
+  font-family: Tahoma, "Microsoft Sans Serif";
+  font-size: 13px;
+}

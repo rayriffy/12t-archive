@@ -16,3 +16,16 @@ body {
   width: 1000px;
   height: auto;
 }
+
+.blogbanner {
+  position: relative;
+  margin: 0 auto;
+  width: 897px;
+  height: auto;
+  background: url(../assets/images/menu/bg_menu.png) no-repeat;
+  z-index: 5;
+}
+
+.clear {
+  clear: both;
+}

@@ -9,7 +9,6 @@ import headStyle from './head.module.css'
 
 export default class LayoutTemplate extends React.Component {
   render() {
-    const {children} = this.props
     return (
       <StaticQuery
       query={graphql`
@@ -55,10 +54,6 @@ export default class LayoutTemplate extends React.Component {
             <a href="" target="_self" title="หน้าหลัก">
               <div id="randomImage">
                 <Img fluid={data.allFile.edges[Math.floor(Math.random() * data.allFile.edges.length)].node.childImageSharp.fluid} />
-                  {/* {data.allFile.edges.map(({node}) => (
-                      
-                    )
-                  )} */}
               </div>
             </a>
           </div>
